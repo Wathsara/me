@@ -19,4 +19,4 @@ jobs:
         password: ${{ secrets.GH_TOKEN }}
         registry: docker.pkg.github.com
         repository:  Wathsara/wathsara/resume
-        tag_with_ref: latest
+        tag_with_ref: true

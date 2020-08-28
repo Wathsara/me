@@ -18,5 +18,5 @@ jobs:
         username: ${{ github.actor }}
         password: ${{ secrets.GH_TOKEN }}
         registry: docker.pkg.github.com
-        repository:  wathsara/wathsara/resume
+        repository:  Wathsara/Wathsara/resume 
         tag_with_ref: true
